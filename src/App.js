@@ -136,6 +136,7 @@ function App() {
               <div class="col-sm-8 col-md-8 col-lg-8 col-xl-8">
                 <br/>
                 <p class="font-weight-bold" >Institución Educativa Diego Echavarría Misas | Construcción de Elementos de Software Web</p>
+                <br/>
               </div>
           </div>
       </div>
