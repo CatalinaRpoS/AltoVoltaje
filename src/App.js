@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header>
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand"><img src="https://img.icons8.com/pastel-glyph/64/000000/green-energy.png" width="70" height="70" class="d-inline-block align-top" alt="Icono" loading="lazy"/></a>
+            <a class="navbar-brand" href="/"><img src="https://img.icons8.com/pastel-glyph/64/000000/green-energy.png" width="70" height="70" class="d-inline-block align-top" alt="Icono" loading="lazy"/></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
