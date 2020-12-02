@@ -79,7 +79,7 @@ function App() {
         <div class="card mb-3"/>
   <div class="row ">
     <div class="col-md-4">
-      <img src="https://desarrolloactivo.ams3.cdn.digitaloceanspaces.com/images/articles/57acef2169e00c0368e96a3b/large@2x.jpg" class="card-img imagen" alt="Babel"/>
+      <img src="https://miro.medium.com/max/2400/1*_mmd_vmSQ3cN308T9KQAMQ.jpeg" class="card-img imagen" alt="Babel"/>
     </div>
     <div class="col-md-8">
       <div class="card-body">
